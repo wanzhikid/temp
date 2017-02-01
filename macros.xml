@@ -1,0 +1,16 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="1">
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorDown" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorLeft" />
+    </macro>
+  </component>
+</application>
